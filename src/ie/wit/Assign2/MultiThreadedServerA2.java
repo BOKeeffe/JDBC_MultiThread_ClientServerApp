@@ -73,8 +73,6 @@ public class MultiThreadedServerA2 extends JFrame implements Runnable {
 	 * 
 	 * @author williamokeeffe
 	 * 
-	 * 
-	 *
 	 */
 	public static void main(String[] args) throws ClassNotFoundException {
 		
