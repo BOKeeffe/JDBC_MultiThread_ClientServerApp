@@ -140,7 +140,6 @@ public class MultiThreadedServerA2 extends JFrame implements Runnable {
 	 *	and appended to server textArea
 	 *  
 	 *  If a user is not in database it returns boolean type false is returned;
-	 *  
 	 */
 	private Boolean queryDataBase() {
 		
